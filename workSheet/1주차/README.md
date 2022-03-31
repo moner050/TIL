@@ -110,6 +110,7 @@
             |git push|remote Repository로 commit한 파일 push|
             |git push origin **브랜치명**|commit한 내용을 remote repository에 push|
             |git branch|local branch 리스트 출력|
+            |git branch -m master main|branch명을 master에서 main으로 변경|
             |git branch **브랜치명**|local branch 생성|
             |git branch -D **브랜치명**|local branch 삭제|
             |git switch **브랜치명**|local branch 이동|
